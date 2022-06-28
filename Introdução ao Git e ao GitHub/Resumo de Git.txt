@@ -1,0 +1,5 @@
+Git de uma forma bem simples de ser explicada é como se você trabalhasse em um jornal e precisasse entregar uma reportagem. Porém você redige um texto como rascunho para que seu supervisor faça correções, daí ele manda de volta corrigido, entretanto você salva o documento antigo e o novo e assim faz até chegar ao documento final.
+
+	- Git init (iniciar repositório)
+	- Git add (mover e adicionar arquivos)
+	- Git commit (criar commit) 
